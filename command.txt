@@ -1,1 +1,1 @@
-echo "So that is how we get remote control over the system!"
+cmd.exe
