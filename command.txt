@@ -1,1 +1,1 @@
-echo "so that worked!:)"
+shutdown
