@@ -1,1 +1,1 @@
-echo "first command to be executed" 
+echo "This is my first trial"
